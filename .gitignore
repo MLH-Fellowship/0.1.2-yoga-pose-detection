@@ -1,0 +1,12 @@
+# Feel free to add whatever files you don't want to commit
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE/Editor files
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints
