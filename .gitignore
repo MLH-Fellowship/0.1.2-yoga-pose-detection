@@ -227,3 +227,6 @@ dmypy.json
 *.pdf
 *.png
 *.jpg
+*.gif
+*.jpeg
+*.bmp
