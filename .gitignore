@@ -230,3 +230,5 @@ dmypy.json
 *.gif
 *.jpeg
 *.bmp
+
+**/*.DS_Store
