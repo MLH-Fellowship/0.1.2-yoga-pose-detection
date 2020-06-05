@@ -26,14 +26,17 @@ With the help of yoga pose detection, people can not only classify the pose but 
 | 8 | warrior1 |
 | 9 | warrior2 |
 
+
 **The training data structure look like this** 
 
-
+<img src='images/train_dir.png'/>
 
 The reason behind choosing this dataset among others-
 - It has images categorized in one of the ten yoga poses
 - Is publicly available
 - The length of the dataset is suitble for our task with 
+
+<img src='images/bridge.png'/>
 
 
 # Features
@@ -72,7 +75,7 @@ The training accuracy achieved is **81%** and validation accuracy acheived is **
 The model is completely built on the public free available dataset in contrast to the commercial projects that use large datasets with high resolution quality. However, the model is capable of being trained on any dataset and predicting the accurate yoga postures. 
 Currently the accuracy is 61% which can be improved with diverse datasets.
 
-
+<img src='images/mountain_predict.png'/>
 
 
 # Future Work:
